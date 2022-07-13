@@ -56,6 +56,3 @@
     <img width="60%" src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/Chat.png"> 
 </p>
 
-#� �G�e�e�k�B�o�o�k�
-�
-�
